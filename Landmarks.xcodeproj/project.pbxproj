@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		52AC294829B6766C006742BD /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52AC294729B6766C006742BD /* MapView.swift */; };
 		52BF1BA929B13084000A0378 /* LandmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52BF1BA829B13084000A0378 /* LandmarksApp.swift */; };
 		52BF1BAB29B13084000A0378 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52BF1BAA29B13084000A0378 /* ContentView.swift */; };
 		52BF1BAD29B13088000A0378 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52BF1BAC29B13088000A0378 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		52AC294729B6766C006742BD /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		52BF1BA529B13084000A0378 /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		52BF1BA829B13084000A0378 /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
 		52BF1BAA29B13084000A0378 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				52BF1BAA29B13084000A0378 /* ContentView.swift */,
 				52BF1BAC29B13088000A0378 /* Assets.xcassets */,
 				52BF1BD329B278A6000A0378 /* CircleImage.swift */,
+				52AC294729B6766C006742BD /* MapView.swift */,
 				52BF1BB129B13088000A0378 /* Info.plist */,
 				52BF1BAE29B13088000A0378 /* Preview Content */,
 			);
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				52BF1BAB29B13084000A0378 /* ContentView.swift in Sources */,
+				52AC294829B6766C006742BD /* MapView.swift in Sources */,
 				52BF1BA929B13084000A0378 /* LandmarksApp.swift in Sources */,
 				52BF1BD429B278A6000A0378 /* CircleImage.swift in Sources */,
 			);
