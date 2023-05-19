@@ -7,6 +7,7 @@ extension Animation {
             .delay(0.03 * Double(index))
     }
 }
+
 struct HikeGraph: View {
     var hike: Hike
     var path: KeyPath<Hike.Observation, Range<Double>>

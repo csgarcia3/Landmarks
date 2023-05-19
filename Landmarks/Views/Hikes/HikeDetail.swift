@@ -38,3 +38,4 @@ struct HikeDetail_Previews: PreviewProvider {
         HikeDetail(hike: ModelData().hikes[0])
     }
 }
+
